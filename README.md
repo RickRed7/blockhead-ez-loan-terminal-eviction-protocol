@@ -1,7 +1,7 @@
 # blockhead-ez-loan-terminal-eviction-protocol
 **Lead Architect: RickRed7**
 
-This repository contains the formalized BASH logic for the EZ-Loan Terminal management system. It is designed for high-density financial asset management and automated delinquency enforcement.
+This repository contains the formalized BASH logic for the EZ-Loan Terminal management system.
 
 ## Protocols
 - eviction_protocol.sh: Main logic for account termination and shell lockout.
